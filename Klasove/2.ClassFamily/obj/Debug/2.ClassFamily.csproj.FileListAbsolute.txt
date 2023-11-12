@@ -1,0 +1,8 @@
+C:\Users\gabri\OneDrive\Работен плот\Zadachi\Klasove\2.ClassFamily\bin\Debug\2.ClassFamily.exe.config
+C:\Users\gabri\OneDrive\Работен плот\Zadachi\Klasove\2.ClassFamily\bin\Debug\2.ClassFamily.exe
+C:\Users\gabri\OneDrive\Работен плот\Zadachi\Klasove\2.ClassFamily\bin\Debug\2.ClassFamily.pdb
+C:\Users\gabri\OneDrive\Работен плот\Zadachi\Klasove\2.ClassFamily\obj\Debug\2.ClassFamily.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Работен плот\Zadachi\Klasove\2.ClassFamily\obj\Debug\2.ClassFamily.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Работен плот\Zadachi\Klasove\2.ClassFamily\obj\Debug\2.ClassFamily.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Работен плот\Zadachi\Klasove\2.ClassFamily\obj\Debug\2.ClassFamily.exe
+C:\Users\gabri\OneDrive\Работен плот\Zadachi\Klasove\2.ClassFamily\obj\Debug\2.ClassFamily.pdb

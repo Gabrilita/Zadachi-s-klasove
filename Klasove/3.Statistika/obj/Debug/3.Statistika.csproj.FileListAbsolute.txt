@@ -1,0 +1,8 @@
+C:\Users\gabri\OneDrive\Работен плот\Zadachi\Klasove\3.Statistika\bin\Debug\3.Statistika.exe.config
+C:\Users\gabri\OneDrive\Работен плот\Zadachi\Klasove\3.Statistika\bin\Debug\3.Statistika.exe
+C:\Users\gabri\OneDrive\Работен плот\Zadachi\Klasove\3.Statistika\bin\Debug\3.Statistika.pdb
+C:\Users\gabri\OneDrive\Работен плот\Zadachi\Klasove\3.Statistika\obj\Debug\3.Statistika.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Работен плот\Zadachi\Klasove\3.Statistika\obj\Debug\3.Statistika.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Работен плот\Zadachi\Klasove\3.Statistika\obj\Debug\3.Statistika.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Работен плот\Zadachi\Klasove\3.Statistika\obj\Debug\3.Statistika.exe
+C:\Users\gabri\OneDrive\Работен плот\Zadachi\Klasove\3.Statistika\obj\Debug\3.Statistika.pdb
